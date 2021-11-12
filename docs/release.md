@@ -1,6 +1,6 @@
 # Release Process
 
-Binaries for particld are distributed for convenience and built deterministically with Gitian, signatures for particld are located at the  respository.
+Binaries for efind are distributed for convenience and built deterministically with Gitian, signatures for efind are located at the  respository.
 
 ## How to Release
 
